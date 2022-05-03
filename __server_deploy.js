@@ -13,7 +13,7 @@
  * 2.make sure you:git add . git commit -m"" git push
  * 3.git push heroku main
  * 4.
- * 5.faysal.
+ * 5.
  * 
  * 
  */ 
