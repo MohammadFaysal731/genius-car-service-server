@@ -14,7 +14,14 @@
  * 3.git push heroku main
  * 4.Go to heroku Dashboard > Current Projects > Settings >Reveal Config
  * 5.copy paste config vars from you .env file
- * 6.
- * 
+ * 6.Make sure you have whitelisted all ip address to access 
+ * -------------------
+ * UPDATE SERVER new Changes
+ * -----------------------
+ * 1.Make Changes
+ * 2.make sure you:git add . git commit -m"" git push
+ * 3.git push heroku main
+ * ------------------------
+ * connect server with Client 
  * 
  */ 
