@@ -12,8 +12,9 @@
  * 1.heroku create
  * 2.make sure you:git add . git commit -m"" git push
  * 3.git push heroku main
- * 4.
- * 5.
+ * 4.Go to heroku Dashboard > Current Projects > Settings >Reveal Config
+ * 5.copy paste config vars from you .env file
+ * 6.
  * 
  * 
  */ 
